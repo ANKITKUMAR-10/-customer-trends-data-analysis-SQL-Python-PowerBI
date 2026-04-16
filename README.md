@@ -12,4 +12,6 @@ The goal of this project is to end-to-end data analytics workflow, demonstrating
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Workflow](https://raw.githubusercontent.com/ANKITKUMAR-10/-customer-trends-data-analysis-SQL-Python-PowerBI/main/images/project_workflow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ANKITKUMAR-10/-customer-trends-data-analysis-SQL-Python-PowerBI/main/images/project_workflow.png" width="800"/>
+</p>
