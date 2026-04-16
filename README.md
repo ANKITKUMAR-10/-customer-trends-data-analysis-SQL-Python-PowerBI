@@ -15,4 +15,4 @@ The goal of this project is to end-to-end data analytics workflow, demonstrating
 ## 🧩 Project Workflow
 
 
-<img width="1200" alt="project_workflow" src="https://github.com/user-attachments/assets/abc12345-xxxx-xxxx-xxxx-xxxxxxxxxxxx" />
+<img width="1200" alt="project_workflow" src="https://github.com/user-attachments/assets/project_workflow.png" />
