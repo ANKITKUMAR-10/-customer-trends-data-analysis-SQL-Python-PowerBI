@@ -14,4 +14,4 @@ The goal of this project is to end-to-end data analytics workflow, demonstrating
 
 ## 🧩 Project Workflow
 
-![Project Workflow](https://raw.githubusercontent.com/ANKITKUMAR-10/-customer-trends-data-analysis-SQL-Python-PowerBI/main/images/project_workflow.png)
+https://raw.githubusercontent.com/ANKITKUMAR-10/-customer-trends-data-analysis-SQL-Python-PowerBI/main/images/project_workflow.png
